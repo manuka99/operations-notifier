@@ -4,7 +4,7 @@
   "storageConnectionString": "mongodb+srv://test:toS5d08cNLTkW2Y0@cluster0.ygjqk.mongodb.net/notifier?retryWrites=true&w=majority",
   "apiPort": 4021,
   "horizon": "https://horizon-testnet.stellar.org",
-  "signatureSecret": "SDOBT233QBS6IO7GWWTBVXF6AOXHTWS35TYXRYFDPSCOPY4H5EE7LYBG",
+  "signatureSecret": "SBHUQ3HIRBAPNRCW2OEKBAWXYVPC45LFQZ6QPN3M5YZWOQGWXDVHVPOT",
   "maxActiveSubscriptions": 10000,
   "maxActiveSubscriptionsPerUser": 100,
   "notificationConcurrency": 100,
